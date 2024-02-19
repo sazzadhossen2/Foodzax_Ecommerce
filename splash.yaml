@@ -1,0 +1,22 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets/logos/app_logos.jpg
+  image_dark: assets/logos/app_logos.jpg
+
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/logos/app_logos.jpg
+    image_dark: assets/logos/app_logos.jpg
+
+
+  web: false
+
+  #niser line ata diye intriget korbo
+  #flutter pub run flutter_native_splash:create --path=splash.yaml
+
+  #remove splash screen
+  #flutter pub run flutter_native_splash:remove
+
